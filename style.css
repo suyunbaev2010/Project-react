@@ -1,5 +1,5 @@
 .container {
-    width: 500px;
+    width: 400px;
     height: 300px;
     border: 1px solid black;
 }
@@ -8,4 +8,16 @@
     width: 100px;
     height: 100px;
     background-color: blue;
+}
+
+.box {
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+}
+
+.item-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
